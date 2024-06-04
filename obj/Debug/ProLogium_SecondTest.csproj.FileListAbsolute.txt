@@ -9,3 +9,4 @@ C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\Pr
 C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.csproj.CoreCompileInputs.cache
 C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.exe
 C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.pdb
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.Form1.resources
