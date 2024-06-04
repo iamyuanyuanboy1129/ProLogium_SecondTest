@@ -16,7 +16,7 @@ namespace ProLogium_SecondTest
     {
         int func = 1;
         String cntStr = @"Data Source=(LocalDB)\MSSQLLocalDB;" +
-          @"AttachDBFilename = C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\Student.mdf"; //資料庫路徑
+          @"AttachDBFilename = D:\ProLogium_SecondTest\Student.mdf"; //資料庫路徑
 
         public Form1()
         {
