@@ -1,0 +1,11 @@
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\bin\Debug\Student.mdf
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\bin\Debug\Student_log.ldf
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\bin\Debug\ProLogium_SecondTest.exe.config
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\bin\Debug\ProLogium_SecondTest.exe
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\bin\Debug\ProLogium_SecondTest.pdb
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.csproj.AssemblyReference.cache
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.Properties.Resources.resources
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.csproj.GenerateResource.cache
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.csproj.CoreCompileInputs.cache
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.exe
+C:\Users\BOSS-20210208\Desktop\vscode_windform\ProLogium_SecondTest\obj\Debug\ProLogium_SecondTest.pdb
