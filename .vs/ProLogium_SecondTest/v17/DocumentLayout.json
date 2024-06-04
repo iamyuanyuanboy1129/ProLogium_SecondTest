@@ -3,12 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|c:\\users\\boss-20210208\\desktop\\vscode_windform\\prologium_secondtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BOSS_20210208_DESKTOP_VSCODE_WINDFORM_PROLOGIUM_SECONDTEST_STUDENT.MDF/True/SqlTable/dbo.studentDB.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +21,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAADwv18AAAAAAAAA",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAIwKYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:49:44.322Z",
               "IsPinned": true,
@@ -36,7 +39,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "dbo.studentDB [\u8CC7\u6599]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_BOSS_20210208_DESKTOP_VSCODE_WINDFORM_PROLOGIUM_SECONDTEST_STUDENT.MDF/True/SqlTable/dbo.studentDB.sql",
+              "ToolTip": "dbo.studentDB [\u8CC7\u6599]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-04T18:07:44.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

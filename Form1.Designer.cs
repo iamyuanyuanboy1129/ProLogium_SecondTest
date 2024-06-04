@@ -94,6 +94,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "新增資料";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -105,6 +106,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "修改資料";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -116,6 +118,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "刪除資料";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // label3
             // 
@@ -161,8 +164,9 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 11;
-            this.button2.Text = "button2";
+            this.button2.Text = "確定";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -170,8 +174,9 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 12;
-            this.button3.Text = "button3";
+            this.button3.Text = "顯示資料";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textBox2
             // 
