@@ -39,7 +39,7 @@ namespace ProLogium_SecondTest
             return fg; 
         }
 
-        void queryScore(string name, SqlConnection sqlDb) //資料庫
+        void queryScore(string name, SqlConnection sqlDb) //查詢成績功能
         {
             string sqlSrt, str;
 
@@ -163,7 +163,7 @@ namespace ProLogium_SecondTest
         {
             SqlConnection sqlDb;
             string sqlStr = $"update studentDB set 姓名=N'{name}', " +
-                $"電話=N'{phone}', 住址=N'{addr}', " +
+                $"電話=N'{phone}', 住址=N'{addr}' " +
                 $"where 學號 = {studentNo}";
             using (sqlDb = new SqlConnection(cntStr))
             {
@@ -236,13 +236,14 @@ namespace ProLogium_SecondTest
             textBox5.Enabled = false; //住址
         }
 
-        private void button2_Click(object sender, EventArgs e) //確定按鈕
+        private void button2_Click(object sender, EventArgs e) //確定按鈕(缺少學號重複防呆)
         {
             switch(func)
             {
                 case 1: //新增(學號、姓名、電話、住址)
                     if (textBox2.Text == "" || textBox3.Text == "" ||
                         textBox4.Text == "" || textBox5.Text == "")
+                        //MessageBox.Show("所有欄位都要KEY");
                         break;
                     addData(Convert.ToInt32(textBox2.Text),
                             textBox4.Text, textBox3.Text, textBox5.Text);
@@ -250,6 +251,7 @@ namespace ProLogium_SecondTest
                 case 2: //修改(學號、姓名、電話、住址)
                     if (textBox2.Text == "" || textBox3.Text == "" ||
                         textBox4.Text == "" || textBox5.Text == "")
+                        //MessageBox.Show("所有欄位都要KEY");
                         break;
                     updateData(Convert.ToInt32(textBox2.Text),
                             textBox4.Text, textBox3.Text, textBox5.Text);
