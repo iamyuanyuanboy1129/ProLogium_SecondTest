@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|c:\\users\\boss-20210208\\desktop\\vscode_windform\\prologium_secondtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|c:\\users\\boss-20210208\\desktop\\vscode_windform\\prologium_secondtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}|ProLogium_SecondTest.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\BOSS-20210208\\Desktop\\vscode_windform\\ProLogium_SecondTest\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAANAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv18AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:49:44.322Z",
               "IsPinned": true,
