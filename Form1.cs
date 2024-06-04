@@ -63,7 +63,7 @@ namespace ProLogium_SecondTest
             }
             else
             {
-                str = "查無此學生";
+                str = "查無此學生成績";
             }
             label2.Text = str;
         }
