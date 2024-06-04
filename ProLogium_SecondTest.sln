@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProLogium_SecondTest", "ProLogium_SecondTest.csproj", "{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CCEBFF-7F2A-4B17-872C-6FF9F12EFA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3484E5-EDA2-4252-83D8-4D3B5554DD2B}
+	EndGlobalSection
+EndGlobal
